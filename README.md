@@ -8,7 +8,7 @@ sudo apt-get install git
 git clone https://github.com/NacreousDawn596/flatnac
 cd flatnac
 chmod u+x setup.sh
-./setup
+./setup.sh
 ```
 
 # How to use it:
